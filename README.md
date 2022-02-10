@@ -155,6 +155,16 @@
 * [Redlock分布式锁](docs/database/Redis/Redlock分布式锁.md)
 * [如何做可靠的分布式锁，Redlock真的可行么](docs/database/Redis/如何做可靠的分布式锁，Redlock真的可行么.md)
 
+### MQ系列
+
+* [技术系列开篇](https://mp.weixin.qq.com/s/Bjf0sSTw8tHjZZCyNjV-NA)
+* [核心基础篇](https://mp.weixin.qq.com/s/KWoOW1TeJoMhGOSM7AlReg)
+* [Kafka的神秘面纱](https://mp.weixin.qq.com/s/vSJCutIDHdP5AGmbAs13bA)
+* [Kafka架构设计的任督二脉](https://mp.weixin.qq.com/s/GzQ19XSMGEesthLOO7wxOg)
+* [Kafka存储选型的奥秘](https://mp.weixin.qq.com/s/05arNhzPrnE06lEHO3smHA)
+* [Kafka精妙的高性能设计（上篇）](https://mp.weixin.qq.com/s/bEG7Xg3PwirQXZjMiX8glw)
+* [Kafka精妙的高性能设计（下篇）](https://mp.weixin.qq.com/s/knn6gPUkG41ByJAxilDyoQ)
+
 ## 系统设计
 
 ### 设计模式
