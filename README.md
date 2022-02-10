@@ -154,6 +154,8 @@
 * [Redis 总结](docs/database/Redis/Redis.md)
 * [Redlock分布式锁](docs/database/Redis/Redlock分布式锁.md)
 * [如何做可靠的分布式锁，Redlock真的可行么](docs/database/Redis/如何做可靠的分布式锁，Redlock真的可行么.md)
+* [选Redis还是MQ](https://mp.weixin.qq.com/s/K4xZvLU1pEp9d1m3hzbfFw)
+* [16张图吃透Redis架构演进](https://mp.weixin.qq.com/s/_y3A4In47TNWzB2HoJtLmA)
 
 ### MQ系列
 
@@ -164,6 +166,21 @@
 * [Kafka存储选型的奥秘](https://mp.weixin.qq.com/s/05arNhzPrnE06lEHO3smHA)
 * [Kafka精妙的高性能设计（上篇）](https://mp.weixin.qq.com/s/bEG7Xg3PwirQXZjMiX8glw)
 * [Kafka精妙的高性能设计（下篇）](https://mp.weixin.qq.com/s/knn6gPUkG41ByJAxilDyoQ)
+
+### 管理系列
+
+* [管理100多人团队的二三事](https://mp.weixin.qq.com/s/JYO6BB0W9Q17XzhPcSS46Q)
+* [我在美团的八年](https://mp.weixin.qq.com/s/AWepdmYyAOsaCO9HzEH9lQ)
+* [技术管理的几点思考](https://mp.weixin.qq.com/s/eQsev5QZvBrlIgLBH2GGUA)
+
+### 职场系列
+
+* [如何才能顺利地迈进大厂](https://mp.weixin.qq.com/s/3aVjaqVUshYenKhmCvneRw)
+* [编程高手是如何练成的](https://mp.weixin.qq.com/s/mHy-8iNUj3gMHJbhz4DBOw)
+
+### 年度规划系列
+
+* [2021年度目标](https://mp.weixin.qq.com/s/fuVlOuDs3dWb_zt7Nqkniw)
 
 ## 系统设计
 
