@@ -156,6 +156,7 @@
 * [如何做可靠的分布式锁，Redlock真的可行么](docs/database/Redis/如何做可靠的分布式锁，Redlock真的可行么.md)
 * [选Redis还是MQ](https://mp.weixin.qq.com/s/K4xZvLU1pEp9d1m3hzbfFw)
 * [16张图吃透Redis架构演进](https://mp.weixin.qq.com/s/_y3A4In47TNWzB2HoJtLmA)
+* [Redis性能优化的13条军规](https://mp.weixin.qq.com/s/F552aUKVh-y8aOyZUBAuZw)
 
 ### MQ系列
 
@@ -167,16 +168,36 @@
 * [Kafka精妙的高性能设计（上篇）](https://mp.weixin.qq.com/s/bEG7Xg3PwirQXZjMiX8glw)
 * [Kafka精妙的高性能设计（下篇）](https://mp.weixin.qq.com/s/knn6gPUkG41ByJAxilDyoQ)
 
+### 排查问题系列
+
+* [YGC问题排查，又让我涨姿势了](https://mp.weixin.qq.com/s/O0l-d928hr994OpSNw3oow)
+* [线上服务的FGC问题排查，看这篇就够了](https://mp.weixin.qq.com/s/I1fp89Ib2Na1-vjmjSpsjQ)
+* [看完这篇JVM垃圾回收，和面试官扯皮没问题了](https://mp.weixin.qq.com/s/GekJhJBo2WY7girWV7GhBQ)
+* [线程池运用不当的一次线上事故](https://mp.weixin.qq.com/s/Qpdxfal-m0KOUxLeMJlPxw)
+
 ### 管理系列
 
 * [管理100多人团队的二三事](https://mp.weixin.qq.com/s/JYO6BB0W9Q17XzhPcSS46Q)
 * [我在美团的八年](https://mp.weixin.qq.com/s/AWepdmYyAOsaCO9HzEH9lQ)
 * [技术管理的几点思考](https://mp.weixin.qq.com/s/eQsev5QZvBrlIgLBH2GGUA)
+* [总监路上的第1年，聊聊几点感受](https://mp.weixin.qq.com/s/OG_ZAELfOg2IrSJAmV65gA)
+* [初级管理者，如何打通任督二脉](https://mp.weixin.qq.com/s/rqRbVdEePbgDPPa3YA3LEg)
+* [互联网的中层管理，一个庞大且易脆的群体](https://mp.weixin.qq.com/s/Au36OenO1wtpOHuGn2pufw)
+* [工程师如何从技术转型做管理？](https://mp.weixin.qq.com/s/yqN30BK7_8fGOy7xEOnnLw)
+
+### 架构系列
+
+* [高并发，你真的理解透彻了吗](https://mp.weixin.qq.com/s/lc0a8eIRL94gqeb9R1kQzg)
+* [当前疫情下火爆的直播应用，你了解背后的技术架构吗？](https://mp.weixin.qq.com/s/VC8I9AHz9wUuZdqhoiGpUQ)
+
 
 ### 职场系列
 
 * [如何才能顺利地迈进大厂](https://mp.weixin.qq.com/s/3aVjaqVUshYenKhmCvneRw)
 * [编程高手是如何练成的](https://mp.weixin.qq.com/s/mHy-8iNUj3gMHJbhz4DBOw)
+* [晋升不慌了](https://mp.weixin.qq.com/s/N1Q39BepVkUFXnfAMFunLg)
+* [程序员，是否应该有自己的职业规划？](https://mp.weixin.qq.com/s/trQqQwfRke_TnXA92TQKdw)
+* [提升职场价值，把握成长方向](https://mp.weixin.qq.com/s/ajz1WzlVcMTDE1uamZyEkQ)
 
 ### 年度规划系列
 
