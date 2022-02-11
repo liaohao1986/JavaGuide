@@ -122,6 +122,8 @@
 
 * [后端程序员必备的 Linux 基础知识](docs/operating-system/后端程序员必备的Linux基础知识.md)  
 * [Shell 编程入门](docs/operating-system/Shell.md)  
+* [敖丙给学妹肝了一周的Linux命令](https://mp.weixin.qq.com/s/T6try9YIKh8gTLG2lyKKOQ)  
+* [2.5w字 + 36 张图+一周时间：爆肝操作系统面试题](https://mp.weixin.qq.com/s/ws6bgcv6dKIIJDwYYliMAg)  
 
 ## 数据结构与算法
 
@@ -138,6 +140,11 @@
 - [公司真题](docs/dataStructures-algorithms/公司真题.md)
 - [回溯算法经典案例之N皇后问题](docs/dataStructures-algorithms/Backtracking-NQueens.md)
 
+### 算法&数据结构
+
+- [敖丙带你杀死面试梦魇-红黑树【图解】](https://mp.weixin.qq.com/s/sPIE54UmvNgINZIATQKyew)  
+
+
 ## 数据库
 
 ### MySQL
@@ -148,6 +155,16 @@
 * [搞定数据库索引就是这么简单](docs/database/MySQL%20Index.md)
 * [事务隔离级别(图文详解)](docs/database/事务隔离级别(图文详解).md)
 * [一条SQL语句在MySQL中如何执行的](docs/database/一条sql语句在mysql中如何执行的.md)
+* [男朋友问我：为什么 MySQL 喜欢 B+ 树？我笑着画了 20 张图](https://mp.weixin.qq.com/s/AoPq8poENF9T4mVS1fDFPw)
+* [Christina问我：你都是如何设计索引的？](https://mp.weixin.qq.com/s/fShA7jxjshKyHEHfVDrLVA)
+* [小弟问我：为什么MySQL不建议使用delete删除数据？](https://mp.weixin.qq.com/s/7dpNkLaglIyb_9DKdH43eQ)
+* [为啥阿里巴巴不建议MySQL使用Text类型？](https://mp.weixin.qq.com/s/oVjm_iLvbkximBjHv9d8ig)
+* [一口气搞懂MySQL索引所有知识点](https://mp.weixin.qq.com/s/faOaXRQM8p0kwseSHaMCbg)
+* [国庆肝了8天整整2W字的数据库知识点](https://mp.weixin.qq.com/s/J3kCOJwyv2nzvI0_X0tlnA)
+* [MySQL索引凭什么让查询效率提高这么多？](https://mp.weixin.qq.com/s/qESZSzHoxUKQRJhb1EQA_Q)
+* [我说 SELECT COUNT(*) 会造成全表扫描，面试官让丙回去等通知](https://mp.weixin.qq.com/s/SNRvdmyS57oWS_CyYKVvSA)
+* [被敖丙用烂的数据库调优](https://mp.weixin.qq.com/s/e0CqJG2-PCDgKLjQfh02tw)
+* [《爱上面试官》系列-数据库索引](https://mp.weixin.qq.com/s/_9rDde9wRYoZeh07EASNQQ)
 
 ### Redis
 
@@ -157,6 +174,11 @@
 * [选Redis还是MQ](https://mp.weixin.qq.com/s/K4xZvLU1pEp9d1m3hzbfFw)
 * [16张图吃透Redis架构演进](https://mp.weixin.qq.com/s/_y3A4In47TNWzB2HoJtLmA)
 * [Redis性能优化的13条军规](https://mp.weixin.qq.com/s/F552aUKVh-y8aOyZUBAuZw)
+* [Redis为什么这么快？](https://mp.weixin.qq.com/s/KtzvawDnQQwhfjnCoXpcMQ)
+* [图解 Redis 数据结构](https://mp.weixin.qq.com/s/qptE172slg_6Tl1yuzdbfw)
+* [整理好了，Redis面试题](https://mp.weixin.qq.com/s/LkIcGS9kFTXNLFlxASPYUA)
+* [Redis最佳实践：7个维度+43条使用规范，带你彻底玩转Redis](https://mp.weixin.qq.com/s/8EN9vrZMhCK-40o_OdnOlg)
+* [敖丙在蘑菇街的技术分享](https://mp.weixin.qq.com/s/xS2dqi5IG10AF7cHbzguAA)
 
 ### MQ系列
 
@@ -167,6 +189,7 @@
 * [Kafka存储选型的奥秘](https://mp.weixin.qq.com/s/05arNhzPrnE06lEHO3smHA)
 * [Kafka精妙的高性能设计（上篇）](https://mp.weixin.qq.com/s/bEG7Xg3PwirQXZjMiX8glw)
 * [Kafka精妙的高性能设计（下篇）](https://mp.weixin.qq.com/s/knn6gPUkG41ByJAxilDyoQ)
+* [《我想进大厂》之kafka夺命连环11问](https://mp.weixin.qq.com/s/sFUvgaQUXSA8b4hshhbwOQ)
 
 ### 排查问题系列
 
@@ -174,6 +197,10 @@
 * [线上服务的FGC问题排查，看这篇就够了](https://mp.weixin.qq.com/s/I1fp89Ib2Na1-vjmjSpsjQ)
 * [看完这篇JVM垃圾回收，和面试官扯皮没问题了](https://mp.weixin.qq.com/s/GekJhJBo2WY7girWV7GhBQ)
 * [线程池运用不当的一次线上事故](https://mp.weixin.qq.com/s/Qpdxfal-m0KOUxLeMJlPxw)
+* [临时抱佛脚，线上问题如何排查？](https://mp.weixin.qq.com/s/8YBJn8x7Sf9dai9jNkX6Tg)
+* [你要偷偷学会排查线上CPU飙高的问题，然后惊艳所有人！](https://mp.weixin.qq.com/s/nWghy4McYx6Ix3QPSLSmkQ)
+* [记一次大促期间JVM堆外内存泄漏故障排查记录](https://mp.weixin.qq.com/s/yutHXOi6Xl3-Qn91Pvg9wA)
+* [敖丙我把线上CPU打到100%](https://mp.weixin.qq.com/s/roEMz-5tzBZvGxbjq8NhOQ)
 
 ### 管理系列
 
@@ -185,11 +212,34 @@
 * [互联网的中层管理，一个庞大且易脆的群体](https://mp.weixin.qq.com/s/Au36OenO1wtpOHuGn2pufw)
 * [工程师如何从技术转型做管理？](https://mp.weixin.qq.com/s/yqN30BK7_8fGOy7xEOnnLw)
 
+### 工作分享系列
+
+* [揭秘！消息管理平台的实现原理](https://mp.weixin.qq.com/s/4XcefSzHQewbZGQg34oeVA)
+* [敖丙带你设计【秒杀系统】](https://mp.weixin.qq.com/s/KWb3POodisbOEsQVblsoGw)
+
+### 学习方法系列
+
+* [让你自制力提升300%的学习方法](https://mp.weixin.qq.com/s/vseVDxl3BjESeZsdKLd1eA)
+
+### 面试系列
+
+* [敖丙最幸运的事是有你们 附7家大厂面经总结](https://mp.weixin.qq.com/s/VEMNMBbq_Sp9D_BDYPsLfw)
+
 ### 架构系列
 
 * [高并发，你真的理解透彻了吗](https://mp.weixin.qq.com/s/lc0a8eIRL94gqeb9R1kQzg)
 * [当前疫情下火爆的直播应用，你了解背后的技术架构吗？](https://mp.weixin.qq.com/s/VC8I9AHz9wUuZdqhoiGpUQ)
+* [深入浅出Spring架构设计](https://mp.weixin.qq.com/s/wXkgudY0ThIRLFxUmohJog)
+* [公司内部做的一个分享，有缘人可见](https://mp.weixin.qq.com/s/YnNWVeF2KmrUtRNKt4ppCQ)
+* [带你吃透几种大厂分布式ID设计方案](https://mp.weixin.qq.com/s/pT2m_xqzcJkpV3Ql0o6dMw)
 
+### 架构系列
+
+* [高并发，你真的理解透彻了吗](https://mp.weixin.qq.com/s/lc0a8eIRL94gqeb9R1kQzg)
+* [当前疫情下火爆的直播应用，你了解背后的技术架构吗？](https://mp.weixin.qq.com/s/VC8I9AHz9wUuZdqhoiGpUQ)
+* [深入浅出Spring架构设计](https://mp.weixin.qq.com/s/wXkgudY0ThIRLFxUmohJog)
+* [公司内部做的一个分享，有缘人可见](https://mp.weixin.qq.com/s/YnNWVeF2KmrUtRNKt4ppCQ)
+* [带你吃透几种大厂分布式ID设计方案](https://mp.weixin.qq.com/s/pT2m_xqzcJkpV3Ql0o6dMw)
 
 ### 职场系列
 
@@ -198,10 +248,80 @@
 * [晋升不慌了](https://mp.weixin.qq.com/s/N1Q39BepVkUFXnfAMFunLg)
 * [程序员，是否应该有自己的职业规划？](https://mp.weixin.qq.com/s/trQqQwfRke_TnXA92TQKdw)
 * [提升职场价值，把握成长方向](https://mp.weixin.qq.com/s/ajz1WzlVcMTDE1uamZyEkQ)
+* [很佩服的一个Google大佬，离职了](https://mp.weixin.qq.com/s/8tvcDJ-U5HeHqvr0ZEW8jA)
+* [程序员只能吃青春饭？30岁后出路在何方？](https://mp.weixin.qq.com/s/MvA12XM_ZzOG_7ygTmzIfA)
+* [你是外包，麻烦不要偷吃零食，注意素质..](https://mp.weixin.qq.com/s/lC6F1HVmAGQzXsFbpZz9Qw)
+* [阿里五年老员工有什么话想对大家说？](https://mp.weixin.qq.com/s/9vPZd1q1vpKuE2qZazLQmA)
+
+### 简历系列
+
+* [面试官看了直呼想要的简历](https://mp.weixin.qq.com/s/0pNv6pMnenKn1A9PE61VnQ)
+* [能不能好好写简历？](https://mp.weixin.qq.com/s/LxVeT49GMKu72PZJ-rDHpA)
+
+### dubbo系列
+
+* [敖丙肝了一个月的Netty知识点](https://mp.weixin.qq.com/s/I9PGsWo7-ykGf2diKklGtA)
+
+### 学习系列
+
+* [后悔大学没看到这个Github 仓库！](https://mp.weixin.qq.com/s/5hkeZ9w1ZpEYDqFsuXxzXA)
+* [坦白帖！敖丙订阅了哪些技术团队的博客？](https://mp.weixin.qq.com/s/DkYJO_Hn1G_S6zeEvl-Zsw)
+* [技术博客](https://www.githubs.cn/feed)
+* [GitHub中文社区](https://www.githubs.cn)
+* [调研了100来个Java开源博客系统，发现这7个最哇塞！](https://mp.weixin.qq.com/s/QKB0YNDUjIpmS2CgIu3g1g)
+* [渣男一年文章汇总（附硬核面试点脑图）](https://mp.weixin.qq.com/s/-goWYZoQ4GZ5pHYjqC-aVA)
+* [敖丙把所有文章整理成册出书了](https://mp.weixin.qq.com/s/v1RBxtoevdAjXb4NyBxcsQ)
+* [敖丙在位置上肝了一个月的后端知识点长啥样？](https://mp.weixin.qq.com/s/gBr3UfC1HRcw4U-ZMmtRaQ)
+* 
+### idea系列
+
+* [真香！用 IDEA 神器看源码，效率真高！](https://mp.weixin.qq.com/s/OWdjFQxUxDqm403z3rm3SA)
+
+### 设计模式系列
+
+* [策略模式](https://mp.weixin.qq.com/s/AFbt7VJMASenD2S8KbPKJQ)
+* [观察者模式](https://mp.weixin.qq.com/s/_hVGgJxefoVXFHFNXC-U6A)
+* [责任链模式](https://mp.weixin.qq.com/s/l9EdvpAMukIDOgaN7x3b4w)
+* [原型模式](https://mp.weixin.qq.com/s/fORmbucHuPVMS2z3q-mV3A)
+* [建造者模式](https://mp.weixin.qq.com/s/h7iEyxgN34FPn191S8qUpA)
+* [单例模式](https://mp.weixin.qq.com/s/dW0L-PoBeTFHhD29HJO0BQ)
+* [敖丙带你了解电商流程引擎](https://mp.weixin.qq.com/s/b8xa3o4fKDme2438oJTakw)
+* [敖丙所在的电商公司都是怎么用工厂模式的](https://mp.weixin.qq.com/s/j42vn-A_rdWZP3aixXB8Ag)
+
+### 多线程系列
+
+* [深入浅出ConcurrentHashMap内部实现](https://mp.weixin.qq.com/s/f2gcvZIUDhrXVA-Up96kHA)
+* [死磕Synchronized底层实现](https://mp.weixin.qq.com/s/2ka1cDTRyjsAGk_-ii4ngw)
+
+### 工具系列
+
+* [最适合程序员的画图工具？](https://mp.weixin.qq.com/s/MDyeGaRGlzIVMRYsPk1N-g)
+* [私藏的实用工具/学习网站](https://mp.weixin.qq.com/s/7NS452k5hVPW0dUQ-oTi-A)
+
 
 ### 年度规划系列
 
-* [2021年度目标](https://mp.weixin.qq.com/s/fuVlOuDs3dWb_zt7Nqkniw)
+* [2021年度目标](https://mp.weixin.qq.com/s/muXoICVmoXxm3XNiNHB5lg)
+
+### 面试系列
+
+* [moon聊技术](https://mp.weixin.qq.com/s/fuVlOuDs3dWb_zt7Nqkniw)
+* [面试系列重启：JVM篇](https://mp.weixin.qq.com/s/FEPtidbx7WKz6LbhoerRcA)
+* [敖丙最幸运的事是有你们 附7家大厂面经总结](https://mp.weixin.qq.com/s/VEMNMBbq_Sp9D_BDYPsLfw)
+
+### 书籍系列
+
+* [2022值得一读的 15 本技术书籍](https://mp.weixin.qq.com/s/CBfNfPdKaI-7Ex8X8m10cg)
+* [压箱底 | Java 编程学习必读的十本书](https://mp.weixin.qq.com/s/zq5HRHo2zlvWj3RksQeA8w)
+* [敖丙的书单](https://mp.weixin.qq.com/s/6Sf-8WPz6JbdgTxD4bjUUg)
+* [敖丙力荐的书单（含技术和非技术）](https://mp.weixin.qq.com/s/KuKz1AWdlkXIaQmwlePBug)
+* [敖丙女朋友都不陪，也要给你分享的书单](https://mp.weixin.qq.com/s/Wod2cGjGkGeB0iLVAqpksQ)
+
+### 公司系列
+
+* [武汉有哪些不错的互联网公司？](https://mp.weixin.qq.com/s/fhMkMMqTrAe-8Af6Jk4XAg)
+* [压箱底 | Java 编程学习必读的十本书](https://mp.weixin.qq.com/s/zq5HRHo2zlvWj3RksQeA8w)
+
 
 ## 系统设计
 
