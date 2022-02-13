@@ -215,7 +215,7 @@
 ### 工作分享系列
 
 * [揭秘！消息管理平台的实现原理](https://mp.weixin.qq.com/s/4XcefSzHQewbZGQg34oeVA)
-* [敖丙带你设计【秒杀系统】](https://mp.weixin.qq.com/s/KWb3POodisbOEsQVblsoGw)
+* [敖丙带你设计【秒杀系统】](https://mp.weixin.qq.com/s/c6PUDn59y7HZ1AA1k61a2w)
 
 ### 学习方法系列
 
@@ -224,6 +224,8 @@
 ### 面试系列
 
 * [敖丙最幸运的事是有你们 附7家大厂面经总结](https://mp.weixin.qq.com/s/VEMNMBbq_Sp9D_BDYPsLfw)
+* [欢聚时代四年多经验的Java面经](https://mp.weixin.qq.com/s/VEMNMBbq_Sp9D_BDYPsLfw)
+* [虾皮Java 后端面试 15 连问](https://mp.weixin.qq.com/s/6j5DEqcBF_USZbyb20SXZg)
 
 ### 架构系列
 
