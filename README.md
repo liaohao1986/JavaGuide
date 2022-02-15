@@ -274,7 +274,15 @@
 * [渣男一年文章汇总（附硬核面试点脑图）](https://mp.weixin.qq.com/s/-goWYZoQ4GZ5pHYjqC-aVA)
 * [敖丙把所有文章整理成册出书了](https://mp.weixin.qq.com/s/v1RBxtoevdAjXb4NyBxcsQ)
 * [敖丙在位置上肝了一个月的后端知识点长啥样？](https://mp.weixin.qq.com/s/gBr3UfC1HRcw4U-ZMmtRaQ)
-* 
+
+### 技术博客系列
+
+* [阿里技术](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIzOTU0NTQ0MA==&scene=124#wechat_redirect)
+* [阿里巴巴中间件](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU4NzU0MDIzOQ==&scene=124#wechat_redirect)
+* [Thoughtworks洞见](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5MjY3OTgwMA==&scene=124#wechat_redirect)
+* [美团技术团队](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5NjQ5MTI5OA==&scene=124#wechat_redirect)
+
+
 ### idea系列
 
 * [真香！用 IDEA 神器看源码，效率真高！](https://mp.weixin.qq.com/s/OWdjFQxUxDqm403z3rm3SA)
