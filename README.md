@@ -277,10 +277,12 @@
 
 ### 技术博客系列
 
-* [阿里技术](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIzOTU0NTQ0MA==&scene=124#wechat_redirect)
-* [阿里巴巴中间件](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU4NzU0MDIzOQ==&scene=124#wechat_redirect)
-* [Thoughtworks洞见](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5MjY3OTgwMA==&scene=124#wechat_redirect)
-* [美团技术团队](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MjM5NjQ5MTI5OA==&scene=124#wechat_redirect)
+* [技术人成长之路](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIzOTU0NTQ0MA==&action=getalbum&album_id=1427971693057998849&scene=173&from_msgid=2247503954&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
+* [牛掰！国内顶级技术团队2021“年货”出炉！](https://mp.weixin.qq.com/s/8Vs-TLfjiQ5-xi2mWbVZwQ)
+
+
+
+
 
 
 ### idea系列
