@@ -202,6 +202,13 @@
 * [记一次大促期间JVM堆外内存泄漏故障排查记录](https://mp.weixin.qq.com/s/yutHXOi6Xl3-Qn91Pvg9wA)
 * [敖丙我把线上CPU打到100%](https://mp.weixin.qq.com/s/roEMz-5tzBZvGxbjq8NhOQ)
 
+### jvm系列
+
+* [log4j2导致的内存泄露等问题排查](https://tech.souyunku.com/?p=40893)
+* [记录一次log4j2导致的内存泄漏](https://blog.csdn.net/jslcylcy/article/details/104371137)
+* [log4j2导致的内存回收问题总结](https://note.youdao.com/ynoteshare/index.html?id=2d80be6e164a1b0321ffb22f6f4d8e0d&type=note&_time=1651742299700)
+
+
 ### 管理系列
 
 * [管理100多人团队的二三事](https://mp.weixin.qq.com/s/JYO6BB0W9Q17XzhPcSS46Q)
@@ -279,10 +286,6 @@
 
 * [技术人成长之路](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIzOTU0NTQ0MA==&action=getalbum&album_id=1427971693057998849&scene=173&from_msgid=2247503954&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 * [牛掰！国内顶级技术团队2021“年货”出炉！](https://mp.weixin.qq.com/s/8Vs-TLfjiQ5-xi2mWbVZwQ)
-
-
-
-
 
 
 ### idea系列
