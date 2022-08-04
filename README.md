@@ -190,6 +190,7 @@
 * [Kafka精妙的高性能设计（上篇）](https://mp.weixin.qq.com/s/bEG7Xg3PwirQXZjMiX8glw)
 * [Kafka精妙的高性能设计（下篇）](https://mp.weixin.qq.com/s/knn6gPUkG41ByJAxilDyoQ)
 * [《我想进大厂》之kafka夺命连环11问](https://mp.weixin.qq.com/s/sFUvgaQUXSA8b4hshhbwOQ)
+* [MQ如何保证消息不丢失](http://t.zoukankan.com/yangyongjie-p-14462787.html)
 
 ### 排查问题系列
 
