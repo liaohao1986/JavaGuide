@@ -165,8 +165,9 @@
 * [我说 SELECT COUNT(*) 会造成全表扫描，面试官让丙回去等通知](https://mp.weixin.qq.com/s/SNRvdmyS57oWS_CyYKVvSA)
 * [被敖丙用烂的数据库调优](https://mp.weixin.qq.com/s/e0CqJG2-PCDgKLjQfh02tw)
 * [《爱上面试官》系列-数据库索引](https://mp.weixin.qq.com/s/_9rDde9wRYoZeh07EASNQQ)
+* [《面试八股文》之 MySQL 35卷](https://mp.weixin.qq.com/s/STB9rVRWrM_yZnrDDQoQ5w)
 
-### Redis
+### Redis系列
 
 * [Redis 总结](docs/database/Redis/Redis.md)
 * [Redlock分布式锁](docs/database/Redis/Redlock分布式锁.md)
@@ -179,6 +180,13 @@
 * [整理好了，Redis面试题](https://mp.weixin.qq.com/s/LkIcGS9kFTXNLFlxASPYUA)
 * [Redis最佳实践：7个维度+43条使用规范，带你彻底玩转Redis](https://mp.weixin.qq.com/s/8EN9vrZMhCK-40o_OdnOlg)
 * [敖丙在蘑菇街的技术分享](https://mp.weixin.qq.com/s/xS2dqi5IG10AF7cHbzguAA)
+* [多图深入理解 Redis](https://mp.weixin.qq.com/s/DfvYenv7fXv83x0AWThB_Q)
+
+
+### dubbo系列
+
+* [《面试八股文》之Dubbo17卷](https://mp.weixin.qq.com/s/baw1FCbnieMcJr4OoV-yFw)
+
 
 ### MQ系列
 
@@ -192,6 +200,7 @@
 * [《我想进大厂》之kafka夺命连环11问](https://mp.weixin.qq.com/s/sFUvgaQUXSA8b4hshhbwOQ)
 * [2万长文，一文搞懂Kafka](https://mp.weixin.qq.com/s/XJlwDB9gKIbzyYAluFrhDw)
 * [MQ如何保证消息不丢失](http://t.zoukankan.com/yangyongjie-p-14462787.html)
+* [你管这破玩意儿叫 MQ?](https://mp.weixin.qq.com/s/-SuP4Z-Hf6PTlSsjwABasg)
 
 ### 排查问题系列
 
@@ -203,6 +212,11 @@
 * [你要偷偷学会排查线上CPU飙高的问题，然后惊艳所有人！](https://mp.weixin.qq.com/s/nWghy4McYx6Ix3QPSLSmkQ)
 * [记一次大促期间JVM堆外内存泄漏故障排查记录](https://mp.weixin.qq.com/s/yutHXOi6Xl3-Qn91Pvg9wA)
 * [敖丙我把线上CPU打到100%](https://mp.weixin.qq.com/s/roEMz-5tzBZvGxbjq8NhOQ)
+* [一个不错的线上故障排查案例，现在它是你的了](https://mp.weixin.qq.com/s/dVGiqsyMaLePE9vTKrVAQg)
+
+### es系列
+
+* [2万字详解，吃透 ES](https://mp.weixin.qq.com/s/5jHoM3hBYZSTUTy2ElE0ig)
 
 ### jvm系列
 
@@ -235,6 +249,9 @@
 * [敖丙最幸运的事是有你们 附7家大厂面经总结](https://mp.weixin.qq.com/s/VEMNMBbq_Sp9D_BDYPsLfw)
 * [欢聚时代四年多经验的Java面经](https://mp.weixin.qq.com/s/VEMNMBbq_Sp9D_BDYPsLfw)
 * [虾皮Java 后端面试 15 连问](https://mp.weixin.qq.com/s/6j5DEqcBF_USZbyb20SXZg)
+* [被 P8 大佬面了 2 小时，技术、业务有来有回](https://mp.weixin.qq.com/s/f18_pxzh-s1ocmkCle5SeQ)
+* [美团一面：为什么线程崩溃崩溃不会导致 JVM 崩溃](https://mp.weixin.qq.com/s/JnlTdUk8Jvao8L6FAtKqhQ)
+* [字节一面：“为什么网络要分层？每一层的职责、包含哪些协议？”](https://mp.weixin.qq.com/s/Vm30Ks_FQle-IKA663z7Qg)
 
 ### 架构系列
 
@@ -283,6 +300,10 @@
 * [渣男一年文章汇总（附硬核面试点脑图）](https://mp.weixin.qq.com/s/-goWYZoQ4GZ5pHYjqC-aVA)
 * [敖丙把所有文章整理成册出书了](https://mp.weixin.qq.com/s/v1RBxtoevdAjXb4NyBxcsQ)
 * [敖丙在位置上肝了一个月的后端知识点长啥样？](https://mp.weixin.qq.com/s/gBr3UfC1HRcw4U-ZMmtRaQ)
+
+### 代码实战系列
+
+* [瞧瞧别人家的 API 接口，那叫一个优雅！](https://mp.weixin.qq.com/s/4n5P4Sqepg_ZtuteAD0m4g)
 
 ### 技术博客系列
 
